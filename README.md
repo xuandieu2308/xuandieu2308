@@ -36,6 +36,46 @@ I enjoy learning through **hands-on projects** and applying theory to real-world
 ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+### 🔹 Control & Automation Engineering
+- 📐 **Classical Control**
+  - Transfer Function
+  - Block Diagram
+  - Stability Analysis (Routh–Hurwitz)
+  - Root Locus
+  - Bode Plot & Nyquist Plot
+
+- 🧠 **Modern Control**
+  - State-Space Modeling
+  - State Feedback
+  - Observers (Luenberger)
+  - Linearization of Nonlinear Systems
+
+- 🎯 **Controller Design**
+  - PID / PI / PD Controllers
+  - Tuning methods (Ziegler–Nichols, manual tuning)
+  - Discrete-time control
+
+- ⚙️ **System Modeling & Simulation**
+  - Mathematical modeling of physical systems
+  - MATLAB / Simulink-based simulation
+  - Continuous & discrete system analysis
+
+- 🏭 **Industrial Control**
+  - Basic PLC concepts
+  - Sensors & Actuators
+  - Industrial feedback systems
+  - Control in power electronics applications
+
+---
+
+### 🔹 Embedded & Real-Time Systems
+- ESP32 (ESP-IDF, FreeRTOS)
+- Task, Queue, Semaphore, Mutex
+- I2C / SPI / UART communication
+- Layered firmware architecture
+- Real-time control implementation
+
+---
 ### 🔹 Tools & Documentation
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
