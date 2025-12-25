@@ -1,15 +1,11 @@
-# 👋 Hi, I'm Đào Xuân Diệu
+# 👋 Hi, I'm Xuan Dieu Dao
 
-🎓 **Sinh viên ngành Kỹ thuật Tự động hóa**  
-🏫 **Đại học Bách Khoa Hà Nội**  
-📍 Hà Nội, Việt Nam  
+🎓 **Automation Engineering Student**  
+🏫 **Hanoi University of Science and Technology (HUST)**  
+📍 Hanoi, Vietnam  
 
-💡 Quan tâm đến:
-- Điều khiển tự động
-- Hệ thống nhúng (ESP32, STM32)
-- Điện – điện tử công nghiệp
-- Năng lượng tái tạo & MPPT
-- Ứng dụng IoT trong giám sát môi trường
+I am an engineering student with a strong interest in **automatic control systems, embedded systems, and industrial applications**.  
+I enjoy learning through **hands-on projects** and applying theory to real-world problems.
 
 ---
 
@@ -22,23 +18,25 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔧 Có nền tảng **Toán – Lý – Điều khiển**
-- 📘 Đang học và thực hành các môn:
-  - Kỹ thuật điều khiển tự động
-  - Điện tử công suất
-  - Vi điều khiển & PLC
-- 🛠️ Thích làm **project thực tế**, ưu tiên ứng dụng
+- 🔧 Background in **Mathematics, Physics, and Control Theory**
+- 📘 Currently studying:
+  - Automatic Control Systems
+  - Power Electronics
+  - Microcontrollers & PLC
+- 🛠️ Interested in **practical engineering projects** and system implementation
+- 🌱 Actively improving skills in embedded systems and industrial automation
 
 ---
 
 ## 💻 Technical Skills
-### 🔹 Programming & Tools
+
+### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🔹 Design & Documentation
+### 🔹 Tools & Documentation
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -46,16 +44,16 @@
 
 ## 📂 Featured Projects
 - 🔌 **MPPT Boost Converter**  
-  Thiết kế & mô phỏng bộ chuyển đổi DC-DC cho hệ năng lượng mặt trời  
+  Design and simulation of a DC–DC boost converter for solar energy systems.
 
-- 🌱 **Hệ thống giám sát môi trường sử dụng ESP32**  
-  Thu thập & hiển thị dữ liệu nhiệt độ, độ ẩm, môi trường  
+- 🌱 **Environmental Monitoring System using ESP32**  
+  IoT-based system for collecting and displaying temperature and humidity data.
 
-_(Các project đang tiếp tục hoàn thiện và cập nhật)_  
+_(More projects are being developed and will be updated continuously.)_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=xuandieu2308&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=xuandieu2308&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuandieu2308&theme=dark&layout=compact)
@@ -74,4 +72,4 @@ _(Các project đang tiếp tục hoàn thiện và cập nhật)_
 
 [![](https://visitcount.itsvg.in/api?id=xuandieu2308&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> *"Learning by doing – Engineering by thinking."*
+> *"Learning by doing, engineering by thinking."*
